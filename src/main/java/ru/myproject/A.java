@@ -7,7 +7,6 @@ public class A {
         long b = Long.MAX_VALUE;
         int c = 1;
         System.out.println(a+b+c);
-        System.out.println(c+a+b);
-
+        System.out.println(c+b+a);
     }
 }

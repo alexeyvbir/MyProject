@@ -7,5 +7,7 @@ public class C {
         System.out.println("Продолжаем работу с git-ом");
         System.out.println("Снова работаем с git'ом");
         System.out.println("И опять");
+        System.out.println(1+1);
+        System.out.println(2+2);
     }
 }

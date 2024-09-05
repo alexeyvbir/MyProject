@@ -1,5 +1,9 @@
 package ru.myproject;
 
+
+import java.util.HashMap;
+import java.util.Map;
+
 public class C {
     // безумно важный нужный код
     public static void main(String[] args) {
@@ -9,5 +13,9 @@ public class C {
         System.out.println("И опять");
         System.out.println(1+1);
         System.out.println(2+2);
+        int a = 5;
+        Map<String,String> map = new HashMap<String, String>();
+        int k = 7;
+        int p = 9;
     }
 }

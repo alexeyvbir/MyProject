@@ -9,5 +9,7 @@ public class C {
     public static void main(String[] args) {
         int a = 5;
         Map<String,String> map = new HashMap<String, String>();
+        int k = 7;
+        int p = 9;
     }
 }

@@ -10,4 +10,8 @@ public class E {
         System.out.println("Тест2 в классе E");
     }
 
+    public static void test3() {
+        System.out.println("Тест3 в классе Е");
+    }
+
 }

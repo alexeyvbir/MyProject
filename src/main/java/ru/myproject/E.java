@@ -14,4 +14,12 @@ public class E {
         System.out.println("Тест3 в классе Е");
     }
 
+    public static void test4() {
+        System.out.println("тест4 в классе Е");
+    }
+
+    public static void test5() {
+        System.out.println("тест5 в классе Е");
+    }
+
 }

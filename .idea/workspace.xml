@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0762a912-e04a-4b39-b1d6-41df43d0a5e5" name="Changes" comment="CCC-D1234: Fix PR">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/myproject/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/myproject/F.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/myproject/D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/myproject/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/myproject/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.myproject.A" />
       <module name="MyProject" />
@@ -62,8 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.myproject.HelloWorld" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.myproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.A" />

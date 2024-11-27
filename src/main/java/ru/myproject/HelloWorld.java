@@ -8,5 +8,8 @@ public class HelloWorld {
         E.test1();
         F.test1();
         E.test2();
+        E.test3();
+        E.test4();
+        E.test5();
     }
 }

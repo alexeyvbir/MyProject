@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("Новое сообщение");
         E.test1();
         F.test1();
+        E.test2();
     }
 }

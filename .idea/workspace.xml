@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0762a912-e04a-4b39-b1d6-41df43d0a5e5" name="Changes" comment="ССС-С123 Устранение замечаний">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/myproject/G.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/myproject/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/myproject/E.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/myproject/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/myproject/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="0762a912-e04a-4b39-b1d6-41df43d0a5e5" name="Changes" comment="ССС-С123 getting ready for Jenkins" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="feature/biryukov02" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -125,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725550475502</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ССС-С123 getting ready for Jenkins">
+      <created>1732872576864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732872576864</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ССС-С123 getting ready for Jenkins">
+      <created>1732872707271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732872707271</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +184,7 @@
     <MESSAGE value="ССС-С123" />
     <MESSAGE value="Добавлены новые файлы" />
     <MESSAGE value="Изменен файл С" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменен файл С" />
+    <MESSAGE value="ССС-С123 getting ready for Jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="ССС-С123 getting ready for Jenkins" />
   </component>
 </project>

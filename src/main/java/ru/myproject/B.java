@@ -15,7 +15,7 @@ public class B {
     }
 
     public static void testMethod9() {
-        System.out.println("Test method 9");
+        System.out.println("New Test method 9");
     }
 
 }

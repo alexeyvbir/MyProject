@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0762a912-e04a-4b39-b1d6-41df43d0a5e5" name="Changes" comment="ССС-С123: Ref: A.java, Add: B.java, F.java" />
+    <list default="true" id="0762a912-e04a-4b39-b1d6-41df43d0a5e5" name="Changes" comment="ССС-С123: Add testT9 in B.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,17 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="ССС-С123: Add testT17 in B.java" />
+        <option name="rewordedMessage" value="ССС-С123: Add testT9,T13,T17 in B.java" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="faba6ddd7a436b8e6a795d9d219297918688c959" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -110,7 +123,63 @@
       <option name="project" value="LOCAL" />
       <updated>1741794285155</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ССС-С123: Add testT17 in B.java">
+      <created>1741794659121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741794659121</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ССС-С123: Add testT13 in B.java">
+      <created>1741794716717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741794716717</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ССС-С123: Add testT9 in B.java">
+      <created>1741794760520</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741794760520</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ССС-С123: Add testT11 in B.java">
+      <created>1741794944175</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741794944175</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ССС-С123: Add testT11 in B.java">
+      <created>1741795005618</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741795005618</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ССС-С123: Add testT11 in B.java">
+      <created>1741795151273</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741795151273</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ССС-С123: Add testT9 in B.java">
+      <created>1741795341275</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741795341275</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ССС-С123: Add testT9 in B.java">
+      <created>1741795381038</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741795381038</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +193,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="feature/biryukov01" />
                       </list>
                     </value>
                   </entry>
@@ -140,6 +209,16 @@
         <entry key="Branch">
           <value>
             <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature/biryukov01" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/feature/biryukov01" />
+                </option>
+              </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="develop" />
@@ -161,6 +240,10 @@
     <MESSAGE value="Добавлены новые файлы" />
     <MESSAGE value="Изменен файл С" />
     <MESSAGE value="ССС-С123: Ref: A.java, Add: B.java, F.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="ССС-С123: Ref: A.java, Add: B.java, F.java" />
+    <MESSAGE value="ССС-С123: Add testT17 in B.java" />
+    <MESSAGE value="ССС-С123: Add testT13 in B.java" />
+    <MESSAGE value="ССС-С123: Add testT11 in B.java" />
+    <MESSAGE value="ССС-С123: Add testT9 in B.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="ССС-С123: Add testT9 in B.java" />
   </component>
 </project>

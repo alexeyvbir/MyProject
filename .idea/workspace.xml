@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0762a912-e04a-4b39-b1d6-41df43d0a5e5" name="Changes" comment="ССС-С123: Add testT9 in B.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0762a912-e04a-4b39-b1d6-41df43d0a5e5" name="Changes" comment="ССС-С123 getting ready for Jenkins" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/biryukov01" />
+        <entry key="$PROJECT_DIR$" value="feature/biryukov02" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +57,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.myproject.A" />
       <module name="MyProject" />
@@ -73,9 +71,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.myproject.HelloWorld" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.myproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.A" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -116,70 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725550475502</updated>
     </task>
-    <task id="LOCAL-00005" summary="ССС-С123: Ref: A.java, Add: B.java, F.java">
-      <created>1741794285155</created>
+    <task id="LOCAL-00005" summary="ССС-С123 getting ready for Jenkins">
+      <created>1732872576864</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1741794285155</updated>
+      <updated>1732872576864</updated>
     </task>
-    <task id="LOCAL-00006" summary="ССС-С123: Add testT17 in B.java">
-      <created>1741794659121</created>
+    <task id="LOCAL-00006" summary="ССС-С123 getting ready for Jenkins">
+      <created>1732872707271</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1741794659121</updated>
+      <updated>1732872707271</updated>
     </task>
-    <task id="LOCAL-00007" summary="ССС-С123: Add testT13 in B.java">
-      <created>1741794716717</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1741794716717</updated>
-    </task>
-    <task id="LOCAL-00008" summary="ССС-С123: Add testT9 in B.java">
-      <created>1741794760520</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1741794760520</updated>
-    </task>
-    <task id="LOCAL-00009" summary="ССС-С123: Add testT11 in B.java">
-      <created>1741794944175</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1741794944175</updated>
-    </task>
-    <task id="LOCAL-00010" summary="ССС-С123: Add testT11 in B.java">
-      <created>1741795005618</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1741795005618</updated>
-    </task>
-    <task id="LOCAL-00011" summary="ССС-С123: Add testT11 in B.java">
-      <created>1741795151273</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1741795151273</updated>
-    </task>
-    <task id="LOCAL-00012" summary="ССС-С123: Add testT9 in B.java">
-      <created>1741795341275</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1741795341275</updated>
-    </task>
-    <task id="LOCAL-00013" summary="ССС-С123: Add testT9 in B.java">
-      <created>1741795381038</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1741795381038</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,11 +205,7 @@
     <MESSAGE value="ССС-С123" />
     <MESSAGE value="Добавлены новые файлы" />
     <MESSAGE value="Изменен файл С" />
-    <MESSAGE value="ССС-С123: Ref: A.java, Add: B.java, F.java" />
-    <MESSAGE value="ССС-С123: Add testT17 in B.java" />
-    <MESSAGE value="ССС-С123: Add testT13 in B.java" />
-    <MESSAGE value="ССС-С123: Add testT11 in B.java" />
-    <MESSAGE value="ССС-С123: Add testT9 in B.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="ССС-С123: Add testT9 in B.java" />
+    <MESSAGE value="ССС-С123 getting ready for Jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="ССС-С123 getting ready for Jenkins" />
   </component>
 </project>

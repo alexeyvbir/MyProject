@@ -7,4 +7,7 @@ public class C {
     public static void myMethod() {
         System.out.println("----");
     }
+    public static void myMethod11() {
+        System.out.println("----");
+    }
 }

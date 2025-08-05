@@ -5,7 +5,7 @@ public class A {
         System.out.println("Нужный код-1");
         System.out.println("------");
     }
-    public static void myMethod() {
-        System.out.println("----");
+    public static void theMethod() {
+        System.out.println("11111");
     }
 }
